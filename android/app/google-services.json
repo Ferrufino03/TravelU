@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812890776053",
+    "project_id": "unitravel-47678",
+    "storage_bucket": "unitravel-47678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812890776053:android:14aabac49b8d52cade00bc",
+        "android_client_info": {
+          "package_name": "com.example.travel1_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwhNuGS7aSdjpEIhGd7QR6XwhAbswkr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
